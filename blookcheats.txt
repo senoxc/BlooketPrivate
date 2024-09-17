@@ -177,10 +177,10 @@
                         color: "var(--textColor)",
                         fontFamily: "Nunito, sans-serif",
                         fontWeight: "700",
-                        userSelect: "text
+                        userSelect: "text"
                     },
                     innerHTML: "GitHub - senoxc9",
-                    onclick: () => window.open("https://github.com/senoxc/BlooketPrivate", "_blank").focus()
+                    onclick: () => window.open("https://github.com/005Konz/Blooket-Cheats", "_blank").focus()
                 }),
                 (controlButtons = createElement("div", {
                     id: "controlButtons",
